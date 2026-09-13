@@ -1,0 +1,309 @@
+[
+  {
+    "id": "x_nordic_curl",
+    "name": "Nordic hamstring curl",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["hamstrings"],
+    "icon": "leg",
+    "instructions": [
+      "Kneel on a pad with your ankles anchored under a bench, bar or partner.",
+      "Keep your hips extended so your body is straight from knees to head.",
+      "Lower forward as slowly as you can (aim for 3–5 s), resisting with the hamstrings.",
+      "Catch yourself with your hands, push lightly back up and repeat. The best-evidenced hamstring injury prevention exercise there is."
+    ]
+  },
+  {
+    "id": "x_copenhagen_plank",
+    "name": "Copenhagen adductor plank",
+    "category": "strength",
+    "equipment": "bench",
+    "primary": ["adductors"],
+    "icon": "core",
+    "instructions": [
+      "Lie on your side with the top leg on a bench: inner knee on the bench is easier, ankle is harder.",
+      "Prop up on your forearm and lift your hips until your body is a straight line.",
+      "Hold with steady breathing, then switch sides.",
+      "Builds the inner-thigh strength that resists late-race adductor cramps and groin strains."
+    ]
+  },
+  {
+    "id": "x_tibialis_raise",
+    "name": "Tibialis raise",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["calves"],
+    "icon": "leg",
+    "instructions": [
+      "Lean your back against a wall with your feet 30–50 cm in front of you.",
+      "Keep heels down and legs straight; pull your toes up toward your shins as high as you can.",
+      "Lower slowly. Add a plate on your toes to progress."
+    ]
+  },
+  {
+    "id": "x_sl_calf_eccentric",
+    "name": "Single-leg eccentric calf raise",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["calves"],
+    "icon": "leg",
+    "instructions": [
+      "Stand on one foot with the ball of the foot on a step; hold a rail for balance.",
+      "Rise up quickly onto the ball of the foot.",
+      "Lower for 3 s until the heel is below the step.",
+      "Do half the sets with a bent knee to hit the soleus. Both matter for calf cramp resistance."
+    ]
+  },
+  {
+    "id": "x_sl_rdl",
+    "name": "Single-leg Romanian deadlift",
+    "category": "strength",
+    "equipment": "dumbbell",
+    "primary": ["hamstrings"],
+    "icon": "balance",
+    "instructions": [
+      "Hold a dumbbell in the hand opposite your standing leg.",
+      "Hinge at the hip, reaching the free leg straight back until your torso is near parallel.",
+      "Keep hips square and the standing knee soft.",
+      "Drive back up through the heel. Control beats load."
+    ]
+  },
+  {
+    "id": "x_cossack_squat",
+    "name": "Cossack squat",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["adductors"],
+    "icon": "stretch",
+    "instructions": [
+      "Take a very wide stance, toes slightly out.",
+      "Shift to one side and squat deep on that leg while the other stays straight, toes up.",
+      "Keep the chest up and the working heel down.",
+      "Push back through the middle to the other side."
+    ]
+  },
+  {
+    "id": "x_broad_jump",
+    "name": "Standing broad jump",
+    "category": "plyometrics",
+    "equipment": "body only",
+    "primary": ["quadriceps"],
+    "icon": "jump",
+    "instructions": [
+      "Stand behind a line, feet hip-width apart.",
+      "Swing your arms back, dip and jump forward as far as possible.",
+      "Land softly on both feet and stick it for 2 s.",
+      "Measure from the line to the back of the rearmost heel."
+    ]
+  },
+  {
+    "id": "x_cmj",
+    "name": "Countermovement jump",
+    "category": "plyometrics",
+    "equipment": "body only",
+    "primary": ["quadriceps"],
+    "icon": "jump",
+    "instructions": [
+      "Hands on hips, stand tall.",
+      "Dip quickly to about a quarter squat and jump straight up as high as you can.",
+      "Land softly in the same spot.",
+      "Measure with a jump app (e.g. My Jump) or a jump mat. Best of 3."
+    ]
+  },
+  {
+    "id": "x_dead_hang",
+    "name": "Dead hang",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["forearms"],
+    "icon": "hang",
+    "instructions": [
+      "Hang from a pull-up bar, overhand grip, shoulder width.",
+      "Arms straight, shoulders gently engaged rather than shrugged up to the ears.",
+      "Hold as long as you can. Grip endurance protects every unhooked handle pass."
+    ]
+  },
+  {
+    "id": "x_bent_arm_hang",
+    "name": "Bent-arm hang",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["lats"],
+    "icon": "hang",
+    "instructions": [
+      "From the top of a pull-up, lower until your elbows are at about 90° and hold.",
+      "Chest up, shoulders down.",
+      "This is the unhooked pop-and-hold position. Breathe steadily through the hold."
+    ]
+  },
+  {
+    "id": "x_l_sit",
+    "name": "L-sit",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["abdominals"],
+    "icon": "core",
+    "instructions": [
+      "Support yourself on parallel bars, dip handles or the floor with straight arms.",
+      "Lift your legs straight out in front, parallel to the floor.",
+      "Push your shoulders down and hold. Tuck your knees to make it easier."
+    ]
+  },
+  {
+    "id": "x_hollow_hold",
+    "name": "Hollow body hold",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["abdominals"],
+    "icon": "core",
+    "instructions": [
+      "Lie on your back and press your lower back into the floor.",
+      "Lift shoulders and legs, arms overhead, body in a shallow banana shape.",
+      "Hold without letting the lower back lift."
+    ]
+  },
+  {
+    "id": "x_side_plank",
+    "name": "Side plank",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["abdominals"],
+    "icon": "core",
+    "instructions": [
+      "Lie on your side with the elbow under the shoulder.",
+      "Lift your hips so your body is straight from head to feet.",
+      "Hold. Lift the top leg to make it harder."
+    ]
+  },
+  {
+    "id": "x_bird_dog",
+    "name": "Bird dog",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["lower back"],
+    "icon": "balance",
+    "instructions": [
+      "On hands and knees, brace your core.",
+      "Reach one arm forward and the opposite leg back until both are level.",
+      "Pause 2 s without the hips rotating, return and switch."
+    ]
+  },
+  {
+    "id": "x_band_dislocates",
+    "name": "Band shoulder pass-through",
+    "category": "stretching",
+    "equipment": "bands",
+    "primary": ["shoulders"],
+    "icon": "stretch",
+    "instructions": [
+      "Hold a band or stick with a wide grip in front of your hips.",
+      "With straight arms, take it overhead and behind you, then back.",
+      "Narrow the grip over the weeks as your shoulders open up."
+    ]
+  },
+  {
+    "id": "x_thoracic_rotation",
+    "name": "Open-book thoracic rotation",
+    "category": "stretching",
+    "equipment": "body only",
+    "primary": ["middle back"],
+    "icon": "stretch",
+    "instructions": [
+      "Lie on your side, knees bent to 90°, arms straight out in front.",
+      "Open the top arm across your body toward the floor behind you, following it with your eyes.",
+      "Keep the knees together. Pause 2 s and return."
+    ]
+  },
+  {
+    "id": "x_90_90_hips",
+    "name": "90/90 hip switches",
+    "category": "stretching",
+    "equipment": "body only",
+    "primary": ["glutes"],
+    "icon": "stretch",
+    "instructions": [
+      "Sit with both knees bent at 90°, one leg in front of you and one to the side.",
+      "Rotate both knees to the other side, without your hands if you can.",
+      "Pause and lean over the front shin each time."
+    ]
+  },
+  {
+    "id": "x_pigeon",
+    "name": "Pigeon stretch",
+    "category": "stretching",
+    "equipment": "body only",
+    "primary": ["glutes"],
+    "icon": "stretch",
+    "instructions": [
+      "From all fours, bring one knee forward behind the wrist with the shin angled across.",
+      "Extend the back leg straight behind you.",
+      "Sink the hips and fold forward over the front leg. Breathe slowly."
+    ]
+  },
+  {
+    "id": "x_couch_stretch",
+    "name": "Couch stretch",
+    "category": "stretching",
+    "equipment": "body only",
+    "primary": ["quadriceps"],
+    "icon": "stretch",
+    "instructions": [
+      "Kneel with one knee against a wall or couch, shin running up it.",
+      "Step the other foot forward into a lunge.",
+      "Squeeze the back leg's glute and bring your torso upright. The hip-flexor stretch every cyclist needs."
+    ]
+  },
+  {
+    "id": "x_rot_mb_throw",
+    "name": "Rotational med-ball throw",
+    "category": "plyometrics",
+    "equipment": "medicine ball",
+    "primary": ["abdominals"],
+    "icon": "throw",
+    "instructions": [
+      "Stand side-on to a wall holding a 3–5 kg med ball at your hip.",
+      "Load the back hip, then rotate explosively and throw the ball into the wall.",
+      "Catch and reset. The power comes from the hips: this is the pop and rotation of your tricks."
+    ]
+  },
+  {
+    "id": "x_drop_landing",
+    "name": "Single-leg drop landing",
+    "category": "plyometrics",
+    "equipment": "other",
+    "primary": ["quadriceps"],
+    "icon": "jump",
+    "instructions": [
+      "Stand on one leg on a 30–40 cm box.",
+      "Step off and land on the same leg.",
+      "Stick it for 2 s: knee over toes, hips back, no inward knee collapse.",
+      "The most useful knee-protection drill for hard landings."
+    ]
+  },
+  {
+    "id": "x_neck_iso",
+    "name": "Neck isometrics, 4-way",
+    "category": "strength",
+    "equipment": "body only",
+    "primary": ["neck"],
+    "icon": "neck",
+    "instructions": [
+      "Press your hand against your forehead and resist with your neck. No movement.",
+      "Repeat pushing on the back of the head and on each side.",
+      "10 s each direction at about 50% effort. Protects against whiplash in crashes."
+    ]
+  },
+  {
+    "id": "x_trick_visualisation",
+    "name": "Trick visualisation",
+    "category": "stretching",
+    "equipment": "body only",
+    "primary": [],
+    "icon": "mind",
+    "instructions": [
+      "Eyes closed, pick one trick.",
+      "Run it in real time, first person: approach speed, edge, pop, pass, spotting the landing, riding away.",
+      "Include the feel and the sound. Five clean reps per trick. Mental rehearsal measurably speeds up skill learning."
+    ]
+  }
+]
